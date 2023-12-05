@@ -2,6 +2,7 @@ class: [[Bard]]
 
 Level: [[1]]
 
+Stats
 [[Strength]] 
 [[Dexterity]] 
 [[Constitution]] 

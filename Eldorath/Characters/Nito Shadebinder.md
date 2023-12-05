@@ -1,5 +1,7 @@
 Class: [[Blood Hunter]] 
 
+[[Banned Locations]] 
+
 Stats:
 [[Strength]] : 16(+3)
 [[Dexterity]] : 12(+1)
@@ -40,6 +42,33 @@ Stealth
 Survival
 }
 
+[[Blood Hunter]] Features: 
+{
+
+}
+
+Personality Traits
+{
+I can stare down a hell hound without flinching. I'm haunted by memories of war. I can't get the images of violence out.
+}
+
+Ideals
+{
+Greater good. our lot is to lay down our lives in defense of others. (good)
+}
+
+Bonds
+{
+I would still lay down my life for the people i served with.
+Those who fight beside me are those worth dying for.
+}
+
+Flaws
+{
+My hatred of my enemies is blind and unreasoning.
+I'd rather eat my armor than admit when i'm wrong.
+}
+
 Initiative: +1
 
 Armor Class: 11
@@ -56,6 +85,3 @@ Tools: Alchemist's supplies, Dice Set,
 
 Language: [[Common]], [[Abyssal]] 
 }
-
-
-[[Banned Locations]] 
