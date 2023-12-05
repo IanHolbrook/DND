@@ -81,6 +81,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Illusia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":10},\"to\":{\"line\":12,\"ch\":10}},\"scroll\":0}"
+                },
+                {
                   "title": "Nito Shadebinder",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Nito Shadebinder.md\",\"mode\":\"source\",\"source\":false}}",
@@ -487,7 +493,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldorath/Characters/Illusia.md",
+                "file": "Eldorath/Characters/Alaase.md",
                 "mode": "source",
                 "source": false
               }
@@ -596,7 +602,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldorath/Characters/Illusia.md",
+                "file": "Eldorath/Characters/Alaase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -622,7 +628,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldorath/Characters/Illusia.md",
+                "file": "Eldorath/Characters/Alaase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -663,7 +669,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eldorath/Characters/Illusia.md"
+                "file": "Eldorath/Characters/Alaase.md"
               }
             }
           },
@@ -745,11 +751,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "160f8b9983df9424",
+  "active": "663fa62c51ddf8fa",
   "lastOpenFiles": [
+    "Eldorath/Characters/Illusia.md",
     "Eldorath/Characters/Nito Shadebinder.md",
     "Eldorath/Characters/Alaase.md",
-    "Eldorath/Characters/Illusia.md",
     "README.md",
     "Eldorath/Story",
     "Eldorath/Characters/Jaurnias.md",
