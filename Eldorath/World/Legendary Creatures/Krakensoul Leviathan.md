@@ -1,0 +1,1 @@
+This colossal sea serpent, the Krakensoul Leviathan, resides in the deep waters near Astoria. Legend has it that the creature's scales hold the essence of ancient sea magic, granting the ability to control storms and command the creatures of the ocean. It is said that only those who prove their worth to the sea gods can safely navigate the Leviathan's waters.

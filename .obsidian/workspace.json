@@ -518,7 +518,7 @@
             }
           },
           {
-            "id": "3a3f6c787f6487e5",
+            "id": "5e110964144c7b6e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -526,67 +526,34 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Alaase",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Illusia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Alaase",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Illusia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elaria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":114},\"to\":{\"line\":6,\"ch\":114}}}"
-                },
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elaria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Glock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Glock.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Future Ideas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Future Ideas.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":61},\"to\":{\"line\":3,\"ch\":61}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldorath/Story/Future Ideas.md",
+                "file": "Eldorath/Characters/Illusia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a94ba9d96bfdf763",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Characters/Alaase.md",
                 "mode": "source",
                 "source": false
               }
@@ -601,6 +568,66 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Current",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Current.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Future Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Future Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Plot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Plot.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Future Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Future Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Current",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Current.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Future Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Future Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Plot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Plot.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Current",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Current.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Future Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Future Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Plot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Plot.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Future Ideas",
@@ -626,7 +653,7 @@
             }
           },
           {
-            "id": "b280057f65d7ba4b",
+            "id": "398b625ee3a373dd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -640,14 +667,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldorath/Story/Current.md",
+                "file": "Eldorath/World/Legendary Creatures/Krakensoul Leviathan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e110964144c7b6e",
+            "id": "28b11d42f54cd438",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -661,14 +688,143 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldorath/Characters/Illusia.md",
+                "file": "Eldorath/World/Legendary Creatures/Shadowmaster Sphinx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5ebfb7ae63e59da",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Legendary Creatures/Dreamweaver Treant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c71d2b6136bd638",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Legendary Creatures/Sandstorm Serpent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a91fcd2d79cc89a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Legendary Creatures/Emberforge Colossus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbb3ba6c0fe7a003",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Legendary Creatures/Skyshaper Gryphon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5251b20df933dd93",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Plot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Plot.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Shadowmaster Sphinx",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Legendary Creatures/Shadowmaster Sphinx.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Skyshaper Gryphon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Legendary Creatures/Skyshaper Gryphon.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Verdant Jungle Guardian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Legendary Creatures/Verdant Jungle Guardian.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":505},\"to\":{\"line\":0,\"ch\":505}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Story/Future Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -770,7 +926,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldorath/Story/Current.md",
+                "file": "Eldorath/Story/Future Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -796,7 +952,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldorath/Story/Current.md",
+                "file": "Eldorath/Story/Future Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -837,7 +993,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eldorath/Story/Current.md"
+                "file": "Eldorath/Story/Future Ideas.md"
               }
             }
           },
@@ -910,10 +1066,34 @@
             }
           }
         ]
+      },
+      {
+        "id": "55078e49003b648b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4926f09339dd0c40",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -936,16 +1116,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "160f8b9983df9424",
+  "active": "5251b20df933dd93",
   "lastOpenFiles": [
     "Eldorath/Story/Plot.md",
+    "Eldorath/World/Legendary Creatures/Shadowmaster Sphinx.md",
+    "Eldorath/World/Legendary Creatures/Skyshaper Gryphon.md",
+    "Eldorath/World/Legendary Creatures/Verdant Jungle Guardian.md",
+    "Eldorath/World/Legendary Creatures/Emberforge Colossus.md",
+    "Eldorath/World/Legendary Creatures/Sandstorm Serpent.md",
+    "Eldorath/World/Legendary Creatures/Dreamweaver Treant.md",
+    "Eldorath/World/Legendary Creatures/Krakensoul Leviathan.md",
+    "Eldorath/World/Legendary Creatures",
     "Eldorath/Story/Current.md",
     "Eldorath/Story/Future Ideas.md",
+    "Eldorath/Characters/Alaase.md",
     "Eldorath/Story/TimeLine",
     "Eldorath/Story/TimeLine/Future",
     "Eldorath/Story/TimeLine/Present",
     "Eldorath/Story/TimeLine/Past",
-    "Eldorath/Characters/Alaase.md",
     "Eldorath/Story/Battles",
     "Eldorath/Characters/Illusia.md",
     "Eldorath/Characters/Nito Shadebinder.md",
@@ -966,14 +1154,6 @@
     "DND Resources/Languages/Celestial.md",
     "DND Resources/Languages/Dwarvish.md",
     "DND Resources/Languages/Druidic.md",
-    "DND Resources/Languages/Elvish.md",
-    "DND Resources/Languages/Infernal.md",
-    "DND Resources/Languages/Common.md",
-    "DND Resources/Class/Sorcerer.md",
-    "DND Resources/Senses/Passive Intelligence(Investigation).md",
-    "DND Resources/Senses/Passive Wisdom(Insight).md",
-    "DND Resources/Senses/Passive Wisdom(Perception).md",
-    "DND Resources/Languages",
     "Untitled.canvas"
   ]
 }

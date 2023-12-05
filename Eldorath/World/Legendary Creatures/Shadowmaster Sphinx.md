@@ -1,0 +1,1 @@
+The Shadowmaster Sphinx is a mysterious and cunning guardian that dwells in the hidden catacombs beneath Duskhaven. Possessing the ability to manipulate shadows and illusions, the Sphinx is said to guard a trove of forbidden knowledge and artifacts, making it a formidable adversary for those who seek the secrets of the city's underworld.

@@ -1,0 +1,1 @@
+Deep within the heart of Ironhelm's mountains, the Emberforge Colossus is a legendary golem forged from enchanted metals and molten lava. It is said that the colossus awakens only when the city faces its greatest threats, marching forth to defend Ironhelm with immense strength and fiery breath, making it an unstoppable force against invaders.

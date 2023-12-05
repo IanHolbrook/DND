@@ -1,0 +1,1 @@
+The Sandstorm Serpent is a legendary creature that emerges during the most powerful desert sandstorms in Miragea. This colossal serpent, composed of swirling sand and mystical energies, is said to hold the key to unlocking hidden oases and ancient desert treasures. Legends speak of nomadic tribes seeking the serpent's guidance during times of great need.

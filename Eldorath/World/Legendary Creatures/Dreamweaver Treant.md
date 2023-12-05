@@ -1,0 +1,1 @@
+Deep within Sylvanoria, the Dreamweaver Treant stands as the guardian of the mystical Dreaming Glade. This ancient treant has the power to manipulate dreams, weaving the fabric of reality within the forest. It is believed that those who encounter the Dreamweaver may experience visions of the past, present, and possible futures.

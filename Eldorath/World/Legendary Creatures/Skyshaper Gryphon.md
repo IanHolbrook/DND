@@ -1,0 +1,1 @@
+Soaring high above the Aetherian Isles, the Skyshaper Gryphon is a majestic and magical creature with wings of shimmering aether. It is said to be the guardian of the floating isles, possessing the ability to manipulate the currents of the skies. The gryphon is known to form bonds with those who prove their worthiness, allowing them to ride the winds alongside the creature.
