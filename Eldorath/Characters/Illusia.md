@@ -10,5 +10,7 @@ Class: [[Sorcerer]]
 
 Language : [[Common]] 
 
+backstory
+
 
 [[Banned Locations]] 
