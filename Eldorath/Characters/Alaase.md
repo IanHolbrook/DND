@@ -13,7 +13,8 @@ Level: [[1]]
 
 Language: [[Druidic]], [[Dwarvish]], [[Elvish]], [[Common]] 
 
+Known Allies: [[Elaria]] 
 
-
+known Enemies: 
 
 [[Banned Locations]] 

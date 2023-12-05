@@ -84,6 +84,42 @@
                   "title": "Alaase",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Illusia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nito Shadebinder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Nito Shadebinder.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":60},\"to\":{\"line\":13,\"ch\":60}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -443,8 +479,12 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Characters/Nito Shadebinder.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -525,7 +565,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 200
   },
   "right": {
     "id": "45feee93f35b5443",
@@ -550,6 +590,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Eldorath/Characters/Nito Shadebinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -575,6 +616,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Eldorath/Characters/Nito Shadebinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -614,7 +656,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Eldorath/Characters/Nito Shadebinder.md"
+              }
             }
           },
           {
@@ -671,7 +715,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -697,11 +742,11 @@
   "active": "663fa62c51ddf8fa",
   "lastOpenFiles": [
     "Eldorath/Characters/Alaase.md",
+    "Eldorath/Characters/Illusia.md",
+    "Eldorath/Characters/Nito Shadebinder.md",
     "README.md",
     "Eldorath/Story",
-    "Eldorath/Characters/Illusia.md",
     "Eldorath/Characters/Jaurnias.md",
-    "Eldorath/Characters/Nito Shadebinder.md",
     "DND Resources/Class/Druid.md",
     "DND Resources/Class/Bard.md",
     "DND Resources/Class/Blood Hunter.md",
