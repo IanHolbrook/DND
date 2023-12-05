@@ -1,6 +1,53 @@
 {
-  "players": [],
-  "parties": [],
+  "players": [
+    {
+      "note": "Alaase",
+      "path": "Eldorath/Characters/Alaase.md",
+      "name": "Alaase",
+      "level": 1,
+      "ac": "12",
+      "hp": 9,
+      "player": true
+    },
+    {
+      "note": "Jaurnias",
+      "path": "Eldorath/Characters/Jaurnias.md",
+      "name": "jaurnias",
+      "level": 1,
+      "ac": "12",
+      "hp": 9,
+      "player": true
+    },
+    {
+      "note": "Illusia",
+      "path": "Eldorath/Characters/Illusia.md",
+      "name": "Illusia",
+      "level": 1,
+      "hp": 7,
+      "ac": "14",
+      "player": true
+    },
+    {
+      "note": "Nito Shadebinder",
+      "path": "Eldorath/Characters/Nito Shadebinder.md",
+      "name": "Nito",
+      "level": 1,
+      "hp": 10,
+      "ac": "11",
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Campaign 1",
+      "players": [
+        "Alaase",
+        "jaurnias",
+        "Illusia",
+        "Nito"
+      ]
+    }
+  ],
   "defaultParty": null,
   "statuses": [
     {
@@ -94,7 +141,7 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -120,14 +167,14 @@
     "player": true,
     "builder": true
   },
-  "hpOverflow": "ignore",
-  "additiveTemp": false,
+  "hpOverflow": "temp",
+  "additiveTemp": true,
   "rpgSystem": "dnd5e",
-  "logging": false,
-  "logFolder": "/",
+  "logging": true,
+  "logFolder": "Eldorath/Story/Battles",
   "useLegacy": false,
   "diplayPlayerHPValues": true,
-  "rollHP": false,
+  "rollHP": true,
   "descending": true,
   "builder": {
     "showParty": true,

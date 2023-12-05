@@ -81,6 +81,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Jaurnias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Jaurnias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":21}}}"
+                },
+                {
                   "title": "Illusia",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
@@ -493,14 +511,164 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldorath/Characters/Alaase.md",
+                "file": "Eldorath/Characters/Nito Shadebinder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a3f6c787f6487e5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Illusia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Illusia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":114},\"to\":{\"line\":6,\"ch\":114}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Glock",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Glock.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Future Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Future Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":61},\"to\":{\"line\":3,\"ch\":61}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Story/Future Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52f08bc5c5e13e77",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Future Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Future Ideas.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Plot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Plot.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Story/Plot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b280057f65d7ba4b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Story/Current.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e110964144c7b6e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Characters/Illusia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -602,7 +770,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldorath/Characters/Alaase.md",
+                "file": "Eldorath/Story/Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -628,7 +796,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldorath/Characters/Alaase.md",
+                "file": "Eldorath/Story/Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -669,7 +837,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eldorath/Characters/Alaase.md"
+                "file": "Eldorath/Story/Current.md"
               }
             }
           },
@@ -710,6 +878,15 @@
           {
             "id": "8cf16f3d55a4da52",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -718,6 +895,15 @@
           {
             "id": "945ccb0d16cfd1a4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
@@ -727,8 +913,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -751,14 +936,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "663fa62c51ddf8fa",
+  "active": "160f8b9983df9424",
   "lastOpenFiles": [
+    "Eldorath/Story/Plot.md",
+    "Eldorath/Story/Current.md",
+    "Eldorath/Story/Future Ideas.md",
+    "Eldorath/Story/TimeLine",
+    "Eldorath/Story/TimeLine/Future",
+    "Eldorath/Story/TimeLine/Present",
+    "Eldorath/Story/TimeLine/Past",
+    "Eldorath/Characters/Alaase.md",
+    "Eldorath/Story/Battles",
     "Eldorath/Characters/Illusia.md",
     "Eldorath/Characters/Nito Shadebinder.md",
-    "Eldorath/Characters/Alaase.md",
-    "README.md",
-    "Eldorath/Story",
     "Eldorath/Characters/Jaurnias.md",
+    "Eldorath/World/NPC/Elaria.md",
+    "README.md",
+    "Eldorath/World/Magic Weapons/Glock.md",
+    "Eldorath/Story",
     "DND Resources/Class/Druid.md",
     "DND Resources/Class/Bard.md",
     "DND Resources/Class/Blood Hunter.md",
@@ -778,17 +973,7 @@
     "DND Resources/Senses/Passive Intelligence(Investigation).md",
     "DND Resources/Senses/Passive Wisdom(Insight).md",
     "DND Resources/Senses/Passive Wisdom(Perception).md",
-    "DND Resources/Stats/Wisdom.md",
     "DND Resources/Languages",
-    "DND Resources/Armor Class",
-    "DND Resources/Class",
-    "DND Resources/Background",
-    "DND Resources/Race",
-    "DND Resources/Speed",
-    "DND Resources/Stats/Charisma.md",
-    "DND Resources/Stats/Intelligence.md",
-    "DND Resources/Stats/Constitution.md",
-    "DND Resources/Stats/Dexterity.md",
     "Untitled.canvas"
   ]
 }
