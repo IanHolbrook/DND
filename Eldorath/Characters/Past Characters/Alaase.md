@@ -18,3 +18,5 @@ Known Allies: [[Elaria]]
 known Enemies: 
 
 [[Banned Locations]] 
+
+Split on his own journey

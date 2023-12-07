@@ -1,1 +1,1 @@
-Followers of [[Arion Radiance]], and the
+Followers of [[Arion Radiance]], and the [[Arcane Soul Harvester]] 

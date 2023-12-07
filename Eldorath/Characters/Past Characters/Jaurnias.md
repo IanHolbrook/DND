@@ -14,3 +14,6 @@ language : [[Common]]
 
 
 [[Banned Locations]] 
+
+
+Split on his own journey

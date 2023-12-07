@@ -8,20 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6e5bf2bd0c0470f",
+            "id": "5bbe3f274fd848ec",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Arcane Soul Harvester",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Arcane Soul Harvester.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":352},\"to\":{\"line\":12,\"ch\":352}},\"scroll\":7}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Current",
+                  "title": "Arion Radiance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Current.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Individuals/Arion Radiance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":76},\"to\":{\"line\":0,\"ch\":76}}}"
+                },
+                {
+                  "title": "Penumbral Essence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Groups/Penumbral Essence.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":67},\"to\":{\"line\":0,\"ch\":67}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
                 },
                 {
                   "title": "Future Ideas",
@@ -33,44 +57,14 @@
                   "title": "Plot",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Plot.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Current",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/Current.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Past",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/TimeLine/Past/Past.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Future",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/TimeLine/Future/Future.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Past",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/TimeLine/Past/Past.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Present",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Story/TimeLine/Present/Present.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldorath/Story/Future Ideas.md",
+                "file": "Eldorath/Story/Plot.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,8 +252,98 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4000e0a1555c589f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5a6b4fb304e9695",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Characters/Current Characters/Kenpa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0e65520ba9e54df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":24},\"to\":{\"line\":21,\"ch\":24}}}"
+                },
+                {
+                  "title": "Jaurnias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Jaurnias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":24},\"to\":{\"line\":18,\"ch\":24}}}"
+                },
+                {
+                  "title": "Kenpa",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Kenpa.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nito Shadebinder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Nito Shadebinder.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tarin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Tarin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Characters/Current Characters/Tarin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -361,7 +445,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldorath/Story/Future Ideas.md",
+                "file": "Eldorath/Characters/Current Characters/Tarin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -387,7 +471,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldorath/Story/Future Ideas.md",
+                "file": "Eldorath/Characters/Current Characters/Tarin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +512,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eldorath/Story/Future Ideas.md"
+                "file": "Eldorath/Characters/Current Characters/Tarin.md"
               }
             }
           },
@@ -551,25 +635,31 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c6e5bf2bd0c0470f",
+  "active": "160f8b9983df9424",
   "lastOpenFiles": [
-    "Eldorath/Story/Current.md",
-    "Eldorath/Story/Future Ideas.md",
+    "Eldorath/Characters/Past Characters/Alaase.md",
+    "Eldorath/Characters/Current Characters",
+    "Eldorath/Characters/Past Characters",
+    "Eldorath/Characters/Dead Characters/Current Characters",
+    "Eldorath/Characters/Dead Characters",
+    "Eldorath/Characters/Past Characters/Jaurnias.md",
+    "Eldorath/Characters/Current Characters/Kenpa.md",
+    "Eldorath/Characters/Current Characters/Nito Shadebinder.md",
+    "Eldorath/Characters/Current Characters/Tarin.md",
     "Eldorath/Story/Plot.md",
     "Eldorath/World/Magic Weapons/Arcane Soul Harvester.md",
-    "Eldorath/World/NPC/Individuals/Arion Radiance.md",
-    "Eldorath/World/NPC/Individuals/Elaria.md",
     "Eldorath/World/NPC/Groups/Penumbral Essence.md",
+    "Eldorath/World/NPC/Individuals/Arion Radiance.md",
+    "Eldorath/Story/Future Ideas.md",
+    "Eldorath/Story/Current.md",
+    "Eldorath/World/NPC/Individuals/Elaria.md",
     "Eldorath/World/Characters are banned from here/Banned Locations.md",
-    "Eldorath/Characters/Alaase.md",
     "Eldorath/World/NPC/Individuals",
     "Eldorath/World/NPC/Groups",
     "Eldorath/Story/TimeLine/Past/Past.md",
     "Eldorath/Story/TimeLine/Future/Future.md",
     "Eldorath/Story/TimeLine/Present/Present.md",
-    "Eldorath/Characters/Jaurnias.md",
-    "Eldorath/Characters/Nito Shadebinder.md",
-    "Eldorath/Characters/Illusia.md",
+    "Eldorath/Characters/Current Characters/Illusia.md",
     "README.md",
     "Eldorath/World/Legendary Creatures/Krakensoul Leviathan.md",
     "Eldorath/World/Legendary Creatures/Shadowmaster Sphinx.md",
@@ -582,13 +672,6 @@
     "Eldorath/Story/TimeLine",
     "Eldorath/Story/TimeLine/Future",
     "Eldorath/Story/TimeLine/Present",
-    "Eldorath/Story/TimeLine/Past",
-    "Eldorath/Story/Battles",
-    "Eldorath/World/Magic Weapons/Glock.md",
-    "Eldorath/Story",
-    "DND Resources/Class/Druid.md",
-    "DND Resources/Class/Bard.md",
-    "DND Resources/Weapons",
     "Untitled.canvas"
   ]
 }
