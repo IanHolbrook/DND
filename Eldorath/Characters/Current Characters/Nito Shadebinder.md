@@ -2,6 +2,8 @@ Class: [[Blood Hunter]]
 
 [[Banned Locations]] 
 
+-1 to rations
+
 Stats:
 [[Strength]] : 16(+3)
 [[Dexterity]] : 12(+1)

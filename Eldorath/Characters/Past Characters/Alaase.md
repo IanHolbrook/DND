@@ -19,4 +19,4 @@ known Enemies:
 
 [[Banned Locations]] 
 
-Split on his own journey
+Split on his own journey, trying to rebuild his friendship with [[Elaria]] 

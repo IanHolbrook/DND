@@ -302,6 +302,180 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The Enchanted Forest of Sylvanoria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Enchanted Forest of Sylvanoria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Desert Oasis of Miragea",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Desert Oasis of Miragea.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Grand City of Astoria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Grand City of Astoria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Floating Isles of Aetheria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Floating Isles of Aetheria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Grand City of Astoria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Grand City of Astoria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nito Shadebinder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Nito Shadebinder.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":24},\"to\":{\"line\":0,\"ch\":24}},\"scroll\":0}"
+                },
+                {
+                  "title": "Tarin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Tarin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kenpa",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Kenpa.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Illusia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Jaurnias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Jaurnias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Illusia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Characters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Illusia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kenpa",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Kenpa.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nito Shadebinder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Nito Shadebinder.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tarin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Tarin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nito Shadebinder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Nito Shadebinder.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Jaurnias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Jaurnias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Illusia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Illusia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Desert Oasis of Miragea",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Desert Oasis of Miragea.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Enchanted Forest of Sylvanoria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Enchanted Forest of Sylvanoria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Floating Isles of Aetheria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Floating Isles of Aetheria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Desert Oasis of Miragea",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Desert Oasis of Miragea.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Enchanted Grove",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Inns&Taverns/The Enchanted Grove.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":426},\"to\":{\"line\":6,\"ch\":426}}}"
+                },
+                {
+                  "title": "The Enchanted Forest of Sylvanoria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Cities/The Enchanted Forest of Sylvanoria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tarin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Tarin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Alaase",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
@@ -310,7 +484,7 @@
                 {
                   "title": "Jaurnias",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Jaurnias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Jaurnias.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":24},\"to\":{\"line\":18,\"ch\":24}}}"
                 },
                 {
@@ -336,14 +510,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldorath/Characters/Current Characters/Tarin.md",
+                "file": "Eldorath/World/Cities/The Grand City of Astoria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5fdf023c4d1ee56",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Paper Spectacles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Paper Spectacles.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":118},\"to\":{\"line\":1,\"ch\":118}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Characters/Past Characters/Alaase.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -420,7 +621,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 367.5
   },
   "right": {
     "id": "45feee93f35b5443",
@@ -429,6 +630,7 @@
       {
         "id": "2fde883cf05e42c7",
         "type": "tabs",
+        "dimension": 23.228803716608596,
         "children": [
           {
             "id": "9ca995dcc8f39769",
@@ -445,7 +647,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldorath/Characters/Current Characters/Tarin.md",
+                "file": "Eldorath/Characters/Past Characters/Alaase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -471,7 +673,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldorath/Characters/Current Characters/Tarin.md",
+                "file": "Eldorath/Characters/Past Characters/Alaase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -512,7 +714,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eldorath/Characters/Current Characters/Tarin.md"
+                "file": "Eldorath/Characters/Past Characters/Alaase.md"
               }
             }
           },
@@ -589,6 +791,7 @@
       {
         "id": "55078e49003b648b",
         "type": "tabs",
+        "dimension": 23.228803716608596,
         "children": [
           {
             "id": "4926f09339dd0c40",
@@ -604,6 +807,30 @@
             },
             "state": {
               "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b8942c9951142e6",
+        "type": "tabs",
+        "dimension": 53.542392566782816,
+        "children": [
+          {
+            "id": "5e2c5978b3f559a4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
               "state": {}
             }
           }
@@ -635,17 +862,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "160f8b9983df9424",
+  "active": "c5fdf023c4d1ee56",
   "lastOpenFiles": [
+    "Eldorath/World/Magic Weapons/Paper Spectacles.md",
+    "Eldorath/Characters/Current Characters/Characters.md",
+    "Eldorath/World/Cities/The Grand City of Astoria.md",
+    "Eldorath/World/Cities/The Enchanted Forest of Sylvanoria.md",
+    "Eldorath/World/Cities/The Desert Oasis of Miragea.md",
+    "Eldorath/World/Cities/The Floating Isles of Aetheria.md",
+    "Eldorath/Characters/Current Characters/Nito Shadebinder.md",
+    "Eldorath/Characters/Current Characters/Tarin.md",
+    "Eldorath/Characters/Current Characters/Kenpa.md",
+    "Eldorath/Characters/Current Characters/Illusia.md",
     "Eldorath/Characters/Past Characters/Alaase.md",
+    "Eldorath/Characters/Current Characters/Jaurnias.md",
+    "Eldorath/World/Inns&Taverns/The Enchanted Grove.md",
     "Eldorath/Characters/Current Characters",
     "Eldorath/Characters/Past Characters",
     "Eldorath/Characters/Dead Characters/Current Characters",
     "Eldorath/Characters/Dead Characters",
-    "Eldorath/Characters/Past Characters/Jaurnias.md",
-    "Eldorath/Characters/Current Characters/Kenpa.md",
-    "Eldorath/Characters/Current Characters/Nito Shadebinder.md",
-    "Eldorath/Characters/Current Characters/Tarin.md",
     "Eldorath/Story/Plot.md",
     "Eldorath/World/Magic Weapons/Arcane Soul Harvester.md",
     "Eldorath/World/NPC/Groups/Penumbral Essence.md",
@@ -659,15 +894,8 @@
     "Eldorath/Story/TimeLine/Past/Past.md",
     "Eldorath/Story/TimeLine/Future/Future.md",
     "Eldorath/Story/TimeLine/Present/Present.md",
-    "Eldorath/Characters/Current Characters/Illusia.md",
     "README.md",
     "Eldorath/World/Legendary Creatures/Krakensoul Leviathan.md",
-    "Eldorath/World/Legendary Creatures/Shadowmaster Sphinx.md",
-    "Eldorath/World/Legendary Creatures/Skyshaper Gryphon.md",
-    "Eldorath/World/Legendary Creatures/Verdant Jungle Guardian.md",
-    "Eldorath/World/Legendary Creatures/Emberforge Colossus.md",
-    "Eldorath/World/Legendary Creatures/Sandstorm Serpent.md",
-    "Eldorath/World/Legendary Creatures/Dreamweaver Treant.md",
     "Eldorath/World/Legendary Creatures",
     "Eldorath/Story/TimeLine",
     "Eldorath/Story/TimeLine/Future",
