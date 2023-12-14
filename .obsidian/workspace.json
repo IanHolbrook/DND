@@ -527,6 +527,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Nito Shadebinder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Nito Shadebinder.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Jaurnias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Jaurnias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kenpa",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Kenpa.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":25},\"to\":{\"line\":7,\"ch\":25}}}"
+                },
+                {
                   "title": "Paper Spectacles",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Paper Spectacles.md\",\"mode\":\"source\",\"source\":false}}",
@@ -537,7 +561,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eldorath/Characters/Past Characters/Alaase.md",
+                "file": "Eldorath/Characters/Current Characters/Tarin.md",
                 "mode": "source",
                 "source": false
               }
@@ -647,7 +671,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldorath/Characters/Past Characters/Alaase.md",
+                "file": "Eldorath/Story/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -673,7 +697,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldorath/Characters/Past Characters/Alaase.md",
+                "file": "Eldorath/Story/Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -714,7 +738,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eldorath/Characters/Past Characters/Alaase.md"
+                "file": "Eldorath/Story/Plot.md"
               }
             }
           },
@@ -862,20 +886,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c5fdf023c4d1ee56",
+  "active": "160f8b9983df9424",
   "lastOpenFiles": [
+    "Eldorath/Characters/Current Characters/Nito Shadebinder.md",
+    "Eldorath/Characters/Current Characters/Jaurnias.md",
+    "Eldorath/Characters/Current Characters/Kenpa.md",
+    "Eldorath/Characters/Past Characters/Alaase.md",
     "Eldorath/World/Magic Weapons/Paper Spectacles.md",
     "Eldorath/Characters/Current Characters/Characters.md",
     "Eldorath/World/Cities/The Grand City of Astoria.md",
     "Eldorath/World/Cities/The Enchanted Forest of Sylvanoria.md",
     "Eldorath/World/Cities/The Desert Oasis of Miragea.md",
     "Eldorath/World/Cities/The Floating Isles of Aetheria.md",
-    "Eldorath/Characters/Current Characters/Nito Shadebinder.md",
     "Eldorath/Characters/Current Characters/Tarin.md",
-    "Eldorath/Characters/Current Characters/Kenpa.md",
     "Eldorath/Characters/Current Characters/Illusia.md",
-    "Eldorath/Characters/Past Characters/Alaase.md",
-    "Eldorath/Characters/Current Characters/Jaurnias.md",
     "Eldorath/World/Inns&Taverns/The Enchanted Grove.md",
     "Eldorath/Characters/Current Characters",
     "Eldorath/Characters/Past Characters",
