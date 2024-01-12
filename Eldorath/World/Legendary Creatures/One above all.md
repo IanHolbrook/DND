@@ -1,0 +1,1 @@
+The ruler over the legendary creatures, and closely connected with the [[Tamer]] 

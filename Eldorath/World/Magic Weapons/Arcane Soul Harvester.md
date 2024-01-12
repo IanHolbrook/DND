@@ -1,3 +1,6 @@
+
+[[Arion Radiance]] 
+
 **Backstory of the Arcane Soul Harvester:**
 
 Centuries ago, a brilliant and ambitious wizard named Arion Radiance was renowned for his mastery of arcane arts. Arion's insatiable thirst for knowledge and power, however, led him to delve into forbidden realms of magic. Despite warnings from colleagues and mentors, Arion became obsessed with finding a way to overcome the limitations of mortal life.

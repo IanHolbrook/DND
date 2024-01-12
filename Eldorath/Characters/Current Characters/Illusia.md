@@ -1,5 +1,6 @@
 Class: [[Sorcerer]] 
 
+Level: 2
 
 [[Strength]] : 16(+3)
 [[Dexterity]] : 12(+1)
