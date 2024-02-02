@@ -18,6 +18,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Tarin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Tarin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaase",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Alaase.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Jaurnias",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Jaurnias.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kenpa",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Kenpa.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nito Shadebinder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Nito Shadebinder.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tarin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Tarin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fenrir Jotunnblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Fenrir Jotunnblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "That guy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/That guy.md\",\"mode\":\"source\",\"source\":false}}",
@@ -232,13 +274,341 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Eldorath/World/NPC/Individuals/Arion Radiance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bce8a50da0b29f1e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Slayer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Gods/Slayer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tamer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Gods/Tamer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arion Radiance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Individuals/Arion Radiance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Individuals/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slayer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Gods/Slayer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Eldorath/Characters/Current Characters/Fenrir Jotunnblood.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8293f0da112f0f1e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fenrir Jotunnblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Current Characters/Fenrir Jotunnblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":28},\"to\":{\"line\":2,\"ch\":28}}}"
+                },
+                {
+                  "title": "Slayers Guild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Guilds/Slayers Guild.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Characters/Past Characters/Tarin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae0ecd0b685eacab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Academy of Sciences and Arcana",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/College/Academy of Sciences and Arcana.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":24},\"to\":{\"line\":0,\"ch\":24}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/Characters/Past Characters/Tarin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7f130ba10089dc2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Individuals/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arion Radiance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Individuals/Arion Radiance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Individuals/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slayer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Gods/Slayer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tamer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Gods/Tamer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arion Radiance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Individuals/Arion Radiance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/NPC/Individuals/Elaria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tarin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/Characters/Past Characters/Tarin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":26},\"to\":{\"line\":0,\"ch\":26}}}"
+                },
+                {
+                  "title": "Spectacals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spectacals.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Magic Weapons/Twinned Souls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26b5101f22da6d1b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Magic Weapons/Ego Blade 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2331a53b280a91d6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ego Blade 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Ego Blade 1.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Arcane Soul Harvester",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Arcane Soul Harvester.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ego Blade 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Ego Blade 1.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ego Blade 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Magic Weapons/Ego Blade 2.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/College/Academy of Sciences and Arcana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e8bd80d139d2cc1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Magic Weapons/Book \"Slipping\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70c7f56f957aca4e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Legendary Creatures/Slimdra baby.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9525803dbeaf7c45",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slimdra Mother",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Eldorath/World/Legendary Creatures/Slimdra Mother.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eldorath/World/Legendary Creatures/Slimdra baby.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -341,7 +711,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldorath/Characters/Current Characters/Fenrir Jotunnblood.md",
+                "file": "Eldorath/World/Legendary Creatures/Slimdra baby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +737,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldorath/Characters/Current Characters/Fenrir Jotunnblood.md",
+                "file": "Eldorath/World/Legendary Creatures/Slimdra baby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -408,7 +778,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eldorath/Characters/Current Characters/Fenrir Jotunnblood.md"
+                "file": "Eldorath/World/Legendary Creatures/Slimdra baby.md"
               }
             }
           },
@@ -556,35 +926,37 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5bbe3f274fd848ec",
+  "active": "160f8b9983df9424",
   "lastOpenFiles": [
+    "README.md",
+    "Eldorath/World/Legendary Creatures/Slimdra Mother.md",
+    "Eldorath/World/Legendary Creatures/Slimdra baby.md",
+    "Eldorath/World/Magic Weapons/Book \"Slipping\".md",
+    "Eldorath/World/College/Academy of Sciences and Arcana.md",
+    "Eldorath/World/Magic Weapons/Ego Blade 1.md",
+    "Eldorath/World/Magic Weapons/Arcane Soul Harvester.md",
+    "Eldorath/World/Magic Weapons/Ego Blade 2.md",
+    "Eldorath/World/Magic Weapons/Twinned Souls.md",
+    "Eldorath/World/NPC/Individuals/Elaria.md",
+    "Eldorath/World/NPC/Individuals/Arion Radiance.md",
+    "Eldorath/World/NPC/Gods/Slayer.md",
+    "Eldorath/World/NPC/Gods/Tamer.md",
+    "Eldorath/Characters/Past Characters/Tarin.md",
+    "Spectacals.md",
+    "Eldorath/World/College",
+    "Eldorath/Characters/Current Characters/Fenrir Jotunnblood.md",
+    "Eldorath/World/Guilds/Slayers Guild.md",
+    "Eldorath/World/Guilds",
+    "Eldorath/Characters/Past Characters/Alaase.md",
+    "Eldorath/Characters/Past Characters/Jaurnias.md",
+    "Eldorath/Characters/Past Characters/Kenpa.md",
+    "Eldorath/Characters/Past Characters/Nito Shadebinder.md",
     "Eldorath/Characters/Current Characters/That guy.md",
     "Eldorath/Characters/Current Characters/Nike the dragon.md",
     "Eldorath/Characters/Current Characters/JFields.md",
-    "Eldorath/Characters/Current Characters/Fenrir Jotunnblood.md",
     "Eldorath/Characters/Current Characters/Illusia.md",
-    "Eldorath/World/NPC/Individuals/Elaria.md",
     "Eldorath/World/Legendary Creatures/Emberforge Colossus.md",
-    "Eldorath/World/Legendary Creatures/Krakensoul Leviathan.md",
-    "Eldorath/World/Legendary Creatures/One above all.md",
-    "Eldorath/World/NPC/Gods/Tamer.md",
-    "Eldorath/World/Magic Weapons/Monster Manual.md",
     "Eldorath/World/NPC/Gods",
-    "Eldorath/World/Magic Weapons/Glock.md",
-    "Eldorath/World/Magic Weapons/Paper Spectacles.md",
-    "Eldorath/World/Magic Weapons/Raven.md",
-    "Eldorath/World/Magic Weapons/Twinned Souls.md",
-    "Eldorath/World/Magic Weapons/Arcane Soul Harvester.md",
-    "Eldorath/World/Magic Weapons/Ego Ring.md",
-    "Eldorath/World/Magic Weapons/Football?.md",
-    "Eldorath/World/Cities/The Floating Isles of Aetheria.md",
-    "Eldorath/World/Cities/The Grand City of Astoria.md",
-    "Eldorath/World/Cities/The Villainous City of Duskhaven.md",
-    "Eldorath/World/Legendary Creatures/Verdant Jungle Guardian.md",
-    "Eldorath/World/Legendary Creatures/Dreamweaver Treant.md",
-    "Eldorath/World/Inns&Taverns/The Serpent's Haven.md",
-    "Eldorath/World/Inns&Taverns/The Enchanted Grove.md",
-    "Eldorath/World/Inns&Taverns/The Aetherian Skies Inn.md",
     "Eldorath/Characters/Current Characters",
     "Eldorath/Characters/Past Characters",
     "Eldorath/Characters/Dead Characters/Current Characters",
@@ -592,8 +964,6 @@
     "Eldorath/World/NPC/Individuals",
     "Eldorath/World/NPC/Groups",
     "Eldorath/World/Legendary Creatures",
-    "Eldorath/Story/TimeLine",
-    "Eldorath/Story/TimeLine/Future",
     "Untitled.canvas"
   ]
 }

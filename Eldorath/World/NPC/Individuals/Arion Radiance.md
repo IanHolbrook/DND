@@ -1,5 +1,9 @@
 Leader of the [[Penumbral Essence]], owner of the [[Arcane Soul Harvester]] 
 
+Leader of the slayers guild
+
+Reincarnation of slayer god
+
 Seeks immortality by stealing the life force from others, growing more powerful with each soul consumed. The downside is the souls are still housed within him, causing him to also steal their memories, personality, everything else included and tortures him.
 
 
